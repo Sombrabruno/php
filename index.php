@@ -1,5 +1,5 @@
-<?php
+s<?php
 
-echo "meu primeiro codigo <strong>PHP</strong>";
+echo "Teste <strong>PHP</strong>";
 
 ?>
